@@ -6,6 +6,7 @@
 </a>
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mulkiah&count_private=true)
 <!--
 Perkenalkan nama saya **Gilang Ramadhan**.\
 Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).\
