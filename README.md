@@ -8,7 +8,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mulkiah&count_private=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mulkiah&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
-<!--
+
 Perkenalkan nama saya **Mulkiah**.\
 Saya seorang **Machine Learning Engineer** di [NRI Indonesia](https://www.nri.co.id/).\
 Saya alumni Math Universitas Hasanuddin, dan Ilmu Komputer UGM
@@ -18,8 +18,8 @@ Saya juga memiliki beberapa lisensi industri
 dan juga lisensi pendidik 
  - [MCE: Microsoft Certified Educator](https://www.credly.com/badges/10a20b0d-68ab-4fe6-99fc-b02f44c032d3)
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
- 
+Jika kamu tertarik untuk berkenalan denganku, silakan terhubung dengan akun [Linkedin](https://www.linkedin.com/in/mulkiah/)ku ya.
+ <!--
 <p align="left">
 <a href="https://github.com/gilangadhan">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
