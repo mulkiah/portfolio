@@ -7,6 +7,7 @@
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mulkiah&count_private=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mulkiah&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 <!--
 Perkenalkan nama saya **Gilang Ramadhan**.\
 Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).\
