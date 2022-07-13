@@ -9,10 +9,15 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mulkiah&count_private=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mulkiah&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 <!--
-Perkenalkan nama saya **Gilang Ramadhan**.\
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).\
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).\
-Saya juga memiliki gelar [Google Associate Android Developer](https://www.credential.net/h5deoi5h) sejak 2019.\
+Perkenalkan nama saya **Mulkiah**.\
+Saya seorang **Machine Learning Engineer** di [NRI Indonesia](https://www.nri.co.id/).\
+Saya alumni Math Universitas Hasanuddin, dan Ilmu Komputer UGM
+Saya juga memiliki beberapa lisensi industri
+ - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/af4e2796-b90e-4730-a594-33b8e50808d5)\
+ - [PCAP – Certified Associate in Python Programming](https://www.credly.com/badges/638b3265-c5e7-405c-8d52-21e295a79569)\
+dan juga lisensi pendidik 
+ - [MCE: Microsoft Certified Educator](https://www.credly.com/badges/10a20b0d-68ab-4fe6-99fc-b02f44c032d3)
+
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
  
 <p align="left">
