@@ -600,39 +600,38 @@ const experience = {
       title: "Volunteerships",
       experiences: [
         {
-          title: "Core Team Member",
-          company: "Ananta- the science society of IPCW",
-          company_url:
-            "https://sites.google.com/view/ananta-thesciencesociety/home?authuser=0",
-          logo_path: "ananta.png",
-          duration: "Aug 2021 - September 2022",
-          location: "New Delhi",
+          title: "Bebras Challenge and Workshop Visual Programming",
+          company: "UGM and Bebras",
+          company_url: "https://bebras.or.id/v3/",
+          logo_path: "bebras.jpeg",
+          duration: "2019",
+          location: "Yogyakarta, Indonesia",
           description:
-            "Ananta is an academic society that acts as a torch of discovery for budding young 'scientists' to quench their thirst for knowledge. My responsibility was to work as a representative of the Computer Science Department of IPCW. I ensured maximum participation and awareness among students regarding contests, webinars, and quizzes organised by the society. I also volunteered to create graphic posters and videos for the society. ",
+            "ebras is an international initiative aiming to promote Informatics (Computer Science, or Computing) and computational thinking among school students at all ages.  ",
           color: "#000000",
         },
-        {
-          title: "Student Volunteer",
-          company: "Girl Up Now",
-          company_url: "https://girlup.org/",
-          logo_path: "girluplogo.png",
-          duration: "Aug 2021 - present",
-          location: "Work From Home",
-          description:
-            "Girl Up Now is an affiliation to Girl Up Campaign recognised by the United Nations Foundation. It works towards women empowerment and upliftment. I participated and promoted the workshops and webinars organized by the campaign. I also volunteered to create graphic posters for the campaign.  ",
-          color: "#D83B01",
-        },
-        {
-          title: "Student Volunteer",
-          company: "Visonaries",
-          company_url: "https://www.facebook.com/visionariesdu/",
-          logo_path: "visionarieslogo.jpg",
-          duration: "March 2021 - present",
-          location: "Work From Home",
-          description:
-            "Visionaries is a student initiative which aims to help students who are visually impaired by providing them scribes and audiobooks. I record audiobooks in Hindi and English language. To help the visually impaired students, I have also made a python program that converts any PDF text into an audiobook in seconds.",
-          color: "#4285F4",
-        },
+        // {
+        //   title: "Student Volunteer",
+        //   company: "Girl Up Now",
+        //   company_url: "https://girlup.org/",
+        //   logo_path: "girluplogo.png",
+        //   duration: "Aug 2021 - present",
+        //   location: "Work From Home",
+        //   description:
+        //     "Girl Up Now is an affiliation to Girl Up Campaign recognised by the United Nations Foundation. It works towards women empowerment and upliftment. I participated and promoted the workshops and webinars organized by the campaign. I also volunteered to create graphic posters for the campaign.  ",
+        //   color: "#D83B01",
+        // },
+        // {
+        //   title: "Student Volunteer",
+        //   company: "Visonaries",
+        //   company_url: "https://www.facebook.com/visionariesdu/",
+        //   logo_path: "visionarieslogo.jpg",
+        //   duration: "March 2021 - present",
+        //   location: "Work From Home",
+        //   description:
+        //     "Visionaries is a student initiative which aims to help students who are visually impaired by providing them scribes and audiobooks. I record audiobooks in Hindi and English language. To help the visually impaired students, I have also made a python program that converts any PDF text into an audiobook in seconds.",
+        //   color: "#4285F4",
+        // },
 
         // {
         //   title: "Developer Students Club Member",
