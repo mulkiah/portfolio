@@ -25,21 +25,21 @@ const greeting = {
   subTitle:
     "A passionate tech enthusiast trying to solve real world problems through technology.",
   resumeLink:
-    "https://drive.google.com/file/d/1nocXajgUCiwg-gOQlhlzVhruX-QSTW3P/view?usp=sharing",
-  portfolio_repository: "https://github.com/theriyasharma24/Portfolio",
-  githubProfile: "https://github.com/theriyasharma24",
+    "https://drive.google.com/file/d/1sV0uTWZNlJV2EuQ-sT8xA-fQ5xex7P9t/view?usp=sharing",
+  portfolio_repository: "https://github.com/mulkiah/Projects",
+  githubProfile: "https://github.com/mulkiah",
 };
 
 const socialMediaLinks = [
   {
     name: "Github",
-    link: "https://github.com/theriyasharma24",
+    link: "https://github.com/mulkiah",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/riya-sharma-19500a182/",
+    link: "https://www.linkedin.com/in/mulkiah",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
@@ -57,16 +57,16 @@ const socialMediaLinks = [
   },
   {
     name: "Instagram",
-    link: "https://www.instagram.com/theriyasharma_/",
+    link: "https://www.instagram.com/mulkiah.yasir/",
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
-  {
-    name: "Twitter",
-    link: "https://twitter.com/theriyasharma_",
-    fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
-    backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
-  },
+  //{
+  //  name: "Twitter",
+  //  link: "https://twitter.com/theriyasharma_",
+  //  fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
+  //  backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
+  //},
   // {
   //   name: "Facebook",
   //   link: "https://www.facebook.com/laymanbrother.19/",
@@ -82,7 +82,7 @@ const skills = {
       fileName: "DataScienceImg",
       skills: [
         "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and NLP projects",
+        "⚡ Experience of working with Computer Vision and Data Science Projects",
         "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
       ],
       softwareSkills: [
@@ -119,96 +119,96 @@ const skills = {
         },
       ],
     },
-    {
-      title: "Full Stack Development",
-      fileName: "FullStackImg",
-      skills: [
-        "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
-      ],
-      softwareSkills: [
-        {
-          skillName: "HTML5",
-          fontAwesomeClassname: "simple-icons:html5",
-          style: {
-            color: "#E34F26",
-          },
-        },
-        {
-          skillName: "CSS3",
-          fontAwesomeClassname: "fa-css3",
-          style: {
-            color: "#1572B6",
-          },
-        },
-        {
-          skillName: "Sass",
-          fontAwesomeClassname: "simple-icons:sass",
-          style: {
-            color: "#CC6699",
-          },
-        },
-        {
-          skillName: "JavaScript",
-          fontAwesomeClassname: "simple-icons:javascript",
-          style: {
-            backgroundColor: "#000000",
-            color: "#F7DF1E",
-          },
-        },
-        {
-          skillName: "ReactJS",
-          fontAwesomeClassname: "simple-icons:react",
-          style: {
-            color: "#61DAFB",
-          },
-        },
-        {
-          skillName: "NodeJS",
-          fontAwesomeClassname: "simple-icons:node-dot-js",
-          style: {
-            color: "#339933",
-          },
-        },
-        {
-          skillName: "NPM",
-          fontAwesomeClassname: "simple-icons:npm",
-          style: {
-            color: "#CB3837",
-          },
-        },
-        {
-          skillName: "Yarn",
-          fontAwesomeClassname: "simple-icons:yarn",
-          style: {
-            color: "#2C8EBB",
-          },
-        },
-        {
-          skillName: "Gatsby",
-          fontAwesomeClassname: "simple-icons:gatsby",
-          style: {
-            color: "#663399",
-          },
-        },
-        {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
-          },
-        },
-      ],
-    },
+    // {
+    //   title: "Full Stack Development",
+    //   fileName: "FullStackImg",
+    //   skills: [
+    //     "⚡ Building responsive website front end using React-Redux",
+    //     "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
+    //     "⚡ Creating application backend in Node, Express & Flask",
+    //   ],
+    //   softwareSkills: [
+    //     {
+    //       skillName: "HTML5",
+    //       fontAwesomeClassname: "simple-icons:html5",
+    //       style: {
+    //         color: "#E34F26",
+    //       },
+    //     },
+    //     {
+    //       skillName: "CSS3",
+    //       fontAwesomeClassname: "fa-css3",
+    //       style: {
+    //         color: "#1572B6",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Sass",
+    //       fontAwesomeClassname: "simple-icons:sass",
+    //       style: {
+    //         color: "#CC6699",
+    //       },
+    //     },
+    //     {
+    //       skillName: "JavaScript",
+    //       fontAwesomeClassname: "simple-icons:javascript",
+    //       style: {
+    //         backgroundColor: "#000000",
+    //         color: "#F7DF1E",
+    //       },
+    //     },
+    //     {
+    //       skillName: "ReactJS",
+    //       fontAwesomeClassname: "simple-icons:react",
+    //       style: {
+    //         color: "#61DAFB",
+    //       },
+    //     },
+    //     {
+    //       skillName: "NodeJS",
+    //       fontAwesomeClassname: "simple-icons:node-dot-js",
+    //       style: {
+    //         color: "#339933",
+    //       },
+    //     },
+    //     {
+    //       skillName: "NPM",
+    //       fontAwesomeClassname: "simple-icons:npm",
+    //       style: {
+    //         color: "#CB3837",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Yarn",
+    //       fontAwesomeClassname: "simple-icons:yarn",
+    //       style: {
+    //         color: "#2C8EBB",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Gatsby",
+    //       fontAwesomeClassname: "simple-icons:gatsby",
+    //       style: {
+    //         color: "#663399",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Flutter",
+    //       fontAwesomeClassname: "simple-icons:flutter",
+    //       style: {
+    //         color: "#02569B",
+    //       },
+    //     },
+    //   ],
+    // },
     {
       title: "Cloud Infra-Architecture",
       fileName: "CloudInfraImg",
       skills: [
         "⚡ Experience working on multiple cloud platforms",
         "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
+        "⚡ Deploying deep learning models on cloud and visualize the results",
+        //"⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
       ],
       softwareSkills: [
         {
@@ -232,13 +232,13 @@ const skills = {
             color: "#0089D6",
           },
         },
-        {
-          skillName: "Firebase",
-          fontAwesomeClassname: "simple-icons:firebase",
-          style: {
-            color: "#FFCA28",
-          },
-        },
+        // {
+        //   skillName: "Firebase",
+        //   fontAwesomeClassname: "simple-icons:firebase",
+        //   style: {
+        //     color: "#FFCA28",
+        //   },
+        // },
         {
           skillName: "PostgreSQL",
           fontAwesomeClassname: "simple-icons:postgresql",
@@ -246,13 +246,13 @@ const skills = {
             color: "#336791",
           },
         },
-        {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
-          style: {
-            color: "#47A248",
-          },
-        },
+        // {
+        //   skillName: "MongoDB",
+        //   fontAwesomeClassname: "simple-icons:mongodb",
+        //   style: {
+        //     color: "#47A248",
+        //   },
+        // },
         {
           skillName: "Docker",
           fontAwesomeClassname: "simple-icons:docker",
@@ -269,45 +269,45 @@ const skills = {
         },
       ],
     },
-    {
-      title: "UI/UX Design",
-      fileName: "DesignImg",
-      skills: [
-        "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Customizing logo designs and building logos from scratch",
-        "⚡ Creating the flow of application functionalities to optimize user experience",
-      ],
-      softwareSkills: [
-        {
-          skillName: "Adobe XD",
-          fontAwesomeClassname: "simple-icons:adobexd",
-          style: {
-            color: "#FF2BC2",
-          },
-        },
-        {
-          skillName: "Figma",
-          fontAwesomeClassname: "simple-icons:figma",
-          style: {
-            color: "#F24E1E",
-          },
-        },
-        {
-          skillName: "Adobe Illustrator",
-          fontAwesomeClassname: "simple-icons:adobeillustrator",
-          style: {
-            color: "#FF7C00",
-          },
-        },
-        {
-          skillName: "Inkscape",
-          fontAwesomeClassname: "simple-icons:inkscape",
-          style: {
-            color: "#000000",
-          },
-        },
-      ],
-    },
+    // {
+    //   title: "UI/UX Design",
+    //   fileName: "DesignImg",
+    //   skills: [
+    //     "⚡ Designing highly attractive user interface for mobile and web applications",
+    //     "⚡ Customizing logo designs and building logos from scratch",
+    //     "⚡ Creating the flow of application functionalities to optimize user experience",
+    //   ],
+    //   softwareSkills: [
+    //     {
+    //       skillName: "Adobe XD",
+    //       fontAwesomeClassname: "simple-icons:adobexd",
+    //       style: {
+    //         color: "#FF2BC2",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Figma",
+    //       fontAwesomeClassname: "simple-icons:figma",
+    //       style: {
+    //         color: "#F24E1E",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Adobe Illustrator",
+    //       fontAwesomeClassname: "simple-icons:adobeillustrator",
+    //       style: {
+    //         color: "#FF7C00",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Inkscape",
+    //       fontAwesomeClassname: "simple-icons:inkscape",
+    //       style: {
+    //         color: "#000000",
+    //       },
+    //     },
+    //   ],
+    // },
   ],
 };
 
@@ -320,39 +320,39 @@ const competitiveSites = {
       style: {
         color: "#2EC866",
       },
-      profileLink: "https://www.hackerrank.com/theriyasharma24?hr_r=1",
+      profileLink: "",
     },
-    {
-      siteName: "Codechef",
-      iconifyClassname: "simple-icons:codechef",
-      style: {
-        color: "#5B4638",
-      },
-      profileLink: "https://www.codechef.com/users/riyasharma24",
-    },
+    // {
+    //   siteName: "Codechef",
+    //   iconifyClassname: "simple-icons:codechef",
+    //   style: {
+    //     color: "#5B4638",
+    //   },
+    //   profileLink: "https://www.codechef.com/users/riyasharma24",
+    // },
     {
       siteName: "Leetcode",
       iconifyClassname: "simple-icons:leetcode",
       style: {
         color: "#1F8ACB",
       },
-      profileLink: "https://leetcode.com/riyasharma24/",
+      profileLink: "",
     },
-    {
-      siteName: "Hackerearth",
-      iconifyClassname: "simple-icons:hackerearth",
-      style: {
-        color: "#323754",
-      },
-      profileLink: "https://www.hackerearth.com/@riya1212",
-    },
+    // {
+    //   siteName: "Hackerearth",
+    //   iconifyClassname: "simple-icons:hackerearth",
+    //   style: {
+    //     color: "#323754",
+    //   },
+    //   profileLink: "https://www.hackerearth.com/@riya1212",
+    // },
     {
       siteName: "StackOverflow",
       iconifyClassname: "simple-icons:stackoverflow",
       style: {
         color: "#345234",
       },
-      profileLink: "https://stackoverflow.com/users/15662612/riya-sharma",
+      profileLink: "",
     },
   ],
 };
@@ -366,9 +366,9 @@ const degrees = {
       alt_name: "ugm",
       duration: "2019 - 2021",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DSA, DAA, DBMS, OS, SE, CN etc.",
-        "⚡ Apart from this, I have done courses in Full Stack Web Development and Machine Learning.",
-        "⚡ I have secured Second Position in the University for Part 1 examination and received scholarship for the same from Indraprastha College for Women, University of Delhi.",
+        "⚡ I have studied machine learning and basic artificial intelligence. My master's thesis is about the use of generative models.",
+        "⚡ Apart from this, I worked as a practical assistant for basic programming and software engineering.",
+        "⚡ My master's degree is fully funded by The Indonesia Endowment Fund for Education (LPDP).",
       ],
       website_link: "https://www.du.ac.in",
     },
@@ -379,9 +379,9 @@ const degrees = {
       alt_name: "unhas",
       duration: "2012 - 2016",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DSA, DAA, DBMS, OS, SE, CN etc.",
-        "⚡ Apart from this, I have done courses in Full Stack Web Development and Machine Learning.",
-        "⚡ I have secured Second Position in the University for Part 1 examination and received scholarship for the same from Indraprastha College for Women, University of Delhi.",
+        "⚡ I have studied mathematics and its applications. My bachelor's thesis is about hypercomplex numbers.",
+        "⚡ Apart from this, I worked as a lecture assistant for a basic calculus course.",
+        "⚡ I was awarded the PPA Scholarship, a financial scholarship from the Ministry of Research and Higher Education Indonesia given to the top students of the university.",
       ],
       website_link: "https://www.du.ac.in",
     },
@@ -391,58 +391,49 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "CSS",
-      subtitle: "- Kaifi Khan",
-      logo_path: "edyoda_logo.PNG",
+      title: "Cisco Certified CyberOps Associate",
+      subtitle: "- Cisco ",
+      logo_path: "cisco.png",
       certificate_link:
-        "https://www.udemy.com/certificate/UC-2a8eb701-b5e1-40ea-8238-54bb7e144fb6/",
-      alt_name: "Edyoda Digital University",
+        "https://www.credly.com/badges/04737a8e-7939-4074-af70-e31746553e26",
+      alt_name: "Cisco Certified CyberOps Associate",
       color_code: "#a6cbf4",
     },
     {
-      title: "Git",
-      subtitle: "-  Andrii Piatakha",
-      logo_path: "git_logo.jpg",
+      title: "Professional Data Engineer",
+      subtitle: "-  Google Cloud",
+      logo_path: "gcp_logo.png",
       certificate_link:
-        "https://www.udemy.com/certificate/UC-66ad75a6-88f9-4359-812c-a89e7ec91cd6/",
-      alt_name: "Learn IT University",
+        "https://www.credential.net/95dd56e1-0700-4478-a513-809b11960505",
+      alt_name: "GCP Data Engineer",
       color_code: "#f6ada2",
     },
     {
-      title: "Javascript",
-      subtitle: "- You Accel Training",
-      logo_path: "js_logo.jpg",
+      title: "AWS Certified Solutions Architect Associate",
+      subtitle: "- AWS",
+      logo_path: "aws-logo.png",
       certificate_link:
         "https://www.udemy.com/certificate/UC-3850d72a-5cc2-446b-a562-3db654b75f48/",
-      alt_name: "javascript",
+      alt_name: "aws saa",
       color_code: "#F5DD1B",
     },
 
     {
-      title: "Fundamentals of IoT",
-      subtitle: "- Harish Kumar Maheshwari",
-      logo_path: "Iot_logo.jpg",
+      title: "AWS Certified Machine Learning Specialty",
+      subtitle: "- AWS",
+      logo_path: "aws-logo.png",
       certificate_link:
-        "https://www.udemy.com/certificate/UC-d91adff1-a7ae-48ce-abe2-f5cc15311383/",
-      alt_name: "Iot",
-      color_code: "#d777df",
-    },
-    {
-      title: "Microsoft Data Analyst Associate (DA-100)",
-      subtitle: "- Honeywell",
-      logo_path: "Honeywell_logo.jpg",
-      certificate_link:
-        "https://drive.google.com/file/d/1dBWhxJuzxhOKSAQj8Toz2k8EohDRVqwe/view",
-      alt_name: "power bi",
+        "https://www.credly.com/badges/386c3034-2c30-4f52-b47f-e601cee962ae",
+      alt_name: "awsml",
       color_code: "#FFFFFF",
     },
     {
-      title: "Android Kotlin Fundamentals",
-      subtitle: "- Google Developer Student Club",
-      logo_path: "dsc_logo.jpg",
+      title: "Microsoft Certified: Azure AI Engineer Associate",
+      subtitle: "- Microsoft",
+      logo_path: "microsoft_logo.png",
       certificate_link:
-        "https://drive.google.com/file/d/18I0-MxNYEd8KibBgSpmHAr_8uRFwtPf1/view",
-      alt_name: "kotlin",
+        "https://www.credly.com/badges/383dbbe4-bfa0-48fb-92ab-1caf93560799",
+      alt_name: "microsoftai",
       color_code: "#FFFFFF",
     },
 
@@ -533,77 +524,78 @@ const certifications = {
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Internship and Volunteership",
+  subtitle: "Works, Internship and Volunteership",
   description:
-    "I am a Full Stack Developer with a passion for creating efficient and innovative solutions. ",
+    "I am an IT Enthusiast with a passion for creating efficient and innovative solutions. ",
   header_image_path: "working.png",
   sections: [
-    // {
-    //   title: "Work",
-    //   experiences: [
-    //     {
-    //       title: "Associate AI Engineer",
-    //       company: "Legato Health Technology",
-    //       company_url: "https://legatohealthtech.com/",
-    //       logo_path: "legato_logo.png",
-    //       duration: "June 2020 - PRESENT",
-    //       location: "Hyderabad, Telangana",
-    //       description:
-    //         "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
-    //       color: "#0879bf",
-    //     },
-    //     {
-    //       title: "Android and ML Developer",
-    //       company: "Muffito Incorporation",
-    //       company_url: "https://www.linkedin.com/company/muffito-inc/about/",
-    //       logo_path: "muffito_logo.png",
-    //       duration: "May 2018 - Oct 2018",
-    //       location: "Pune, Maharashtra",
-    //       description:
-    //         "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
-    //       color: "#9b1578",
-    //     },
-    //     {
-    //       title: "Android Developer",
-    //       company: "FreeCopy Pvt. Ltd.",
-    //       company_url: "https://www.linkedin.com/company/freecopy/about/",
-    //       logo_path: "freecopy_logo.png",
-    //       duration: "Nov 2017 - Dec 2017",
-    //       location: "Ahmedabad, Gujarat",
-    //       description:
-    //         "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
-    //       color: "#fc1f20",
-    //     },
-    //   ],
-    // },
     {
-      title: "Internships",
+      title: "Work",
       experiences: [
         {
-          title: "Full Stack App Developer Intern",
-          company: "Ameego",
-          company_url: "https://www.amygo.app/",
-          logo_path: "amygologo.jpg",
-          duration: "June 2022 - March 2023",
-          location: "Hybrid",
+          title: "ML Engineer",
+          company: "Nomura Research Institute Indonesia",
+          company_url: "https://www.nri.co.id/",
+          logo_path: "nri_logo.png",
+          duration: "Jan 2022 - Mar 2023",
+          location: "Remote",
           description:
-            "Ameego is a video-led e-commerce application. I have independently created new features, resolved bugs, documented the code, and have created and tested the backend. The tech stack used is- react native, react.js, express.js, node.js, mongoDB, sqlite, git, REST APIs, django, python, and jira. ",
-          color: "#ee3c26",
+            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
+          color: "#0879bf",
+        },
+        {
+          title: "AI Coach",
+          company: "Orbit Future Academy",
+          company_url: "https://orbitfutureacademy.id/",
+          logo_path: "orbit_logo.png",
+          duration: "Jul 2021 - Jan 2022",
+          location: "Jakarta, Indonesia",
+          description:
+            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
+          color: "#9b1578",
         },
         // {
-        //   title: "Data Science Intern",
-        //   company: "Intel Indexer LLC",
-        //   company_url:
-        //     "https://opencorporates.com/companies/us_dc/EXTUID_4170286",
-        //   logo_path: "intel_logo.jpg",
-        //   duration: "Nov 2018 - Dec 2018",
-        //   location: "Work From Home",
+        //   title: "Android Developer",
+        //   company: "FreeCopy Pvt. Ltd.",
+        //   company_url: "https://www.linkedin.com/company/freecopy/about/",
+        //   logo_path: "freecopy_logo.png",
+        //   duration: "Nov 2017 - Dec 2017",
+        //   location: "Ahmedabad, Gujarat",
         //   description:
-        //     "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
-        //   color: "#0071C5",
+        //     "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
+        //   color: "#fc1f20",
         // },
       ],
     },
+    // {
+    //   title: "Internships",
+    //   experiences: [
+    //     {
+    //       title: "Full Stack App Developer Intern",
+    //       company: "Ameego",
+    //       company_url: "https://www.amygo.app/",
+    //       logo_path: "amygologo.jpg",
+    //       duration: "June 2022 - March 2023",
+    //       location: "Hybrid",
+    //       description:
+    //         "Ameego is a video-led e-commerce application. I have independently created new features, resolved bugs, documented the code, and have created and tested the backend. The tech stack used is- react native, react.js, express.js, node.js, mongoDB, sqlite, git, REST APIs, django, python, and jira. ",
+    //       color: "#ee3c26",
+    //     },
+    //     // {
+    //     //   title: "Data Science Intern",
+    //     //   company: "Intel Indexer LLC",
+    //     //   company_url:
+    //     //     "https://opencorporates.com/companies/us_dc/EXTUID_4170286",
+    //     //   logo_path: "intel_logo.jpg",
+    //     //   duration: "Nov 2018 - Dec 2018",
+    //     //   location: "Work From Home",
+    //     //   description:
+    //     //     "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
+    //     //   color: "#0071C5",
+    //     // },
+    //   ],
+    // },
+
     {
       title: "Volunteerships",
       experiences: [
@@ -674,14 +666,14 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. I try to explore new tools and tech by experimenting with them. My best experience is to create Data Science and Web Development projects.",
+    "My projects makes use of vast variety of latest technology tools. I try to explore new tools and tech by experimenting with them. My best experience is to create Data Science and Artificial Intelligence projects.",
   avatar_image_path: "Projects_top.png",
 };
 
 const publicationsHeader = {
   title: "Publications",
   description:
-    "I have worked on and published a few research papers and publications of my own.",
+    "I have worked on and published a few research papers and publications.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -692,24 +684,23 @@ const contactPageData = {
     profile_image_path: "Contactgirl.png",
     description:
       // "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
-      "I am almost on all social media sites and mostly active on Linkedin. You can contact me anytime and I can help you with React and Android.",
+      "I am almost on all social media site. You can send me an e-mail, I will reply within 24 hours. I can help you with ML, AI and Cloud.",
   },
   blogSection: {
     title: "Blogs",
     subtitle: "I like to share whatever I have learned through my blogs.",
-    link: "https://medium.com/@theriyasharma24",
+    link: "",
     avatar_image_path: "blogs_image.png",
   },
   addressSection: {
     title: "Address",
-    subtitle:
-      "Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
+    subtitle: "Jakarta, Indonesia",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
+    //location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
   },
   phoneSection: {
     title: "Phone Number",
-    subtitle: "+91 8320758513",
+    subtitle: "+62 85397499294",
   },
 };
 
