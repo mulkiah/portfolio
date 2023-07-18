@@ -1,82 +1,69 @@
 {
   "data": [
     {
-      "id": "R_kgDOHtaWVA",
-      "name": "Portfolio",
-      "createdAt": "2022-07-24T16:39:19Z",
-      "url": "https://github.com/theriyasharma24/Portfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "id": "MDEwOlJlcG9zaXRvcnkzMDA4MDk1MTE=",
+      "name": "Audio-Classification",
+      "createdAt": "2020-10-03T06:08:04Z",
+      "url": "https://github.com/mulkiah/Audio-Classification",
+      "description": "Code for YouTube series: Deep Learning for Audio Classification",
       "isFork": true,
-      "languages": [
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
-        },
-        {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnk0MDEzMTQyNzU=",
-      "name": "pdf-to-audiobook-converter",
-      "createdAt": "2021-08-30T11:11:31Z",
-      "url": "https://github.com/theriyasharma24/pdf-to-audiobook-converter",
-      "description": "This program in python can convert PDF files into audiobooks in just few seconds!🔊",
-      "isFork": false,
       "languages": [
         {
           "name": "Python",
           "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
         }
       ]
     },
     {
-      "id": "R_kgDOGxuVZw",
-      "name": "payment-solution",
-      "createdAt": "2022-02-02T13:49:08Z",
-      "url": "https://github.com/Sabhya-Mentor-Programme/payment-solution",
-      "description": "The project solves the problem of agents who handles different clients on daily basis. It offers a secure authentication system and a user-friendly interface. Through this app, agents can easily store general information and payment updates of each client.",
-      "isFork": false,
+      "id": "R_kgDOJQtltw",
+      "name": "awesome-computational-social-science",
+      "createdAt": "2023-03-30T19:52:32Z",
+      "url": "https://github.com/mulkiah/awesome-computational-social-science",
+      "description": "A list of awesome resources for Computational Social Science",
+      "isFork": true,
+      "languages": []
+    },
+    {
+      "id": "R_kgDOIMLYyQ",
+      "name": "mlops-on-gcp",
+      "createdAt": "2022-10-11T13:59:26Z",
+      "url": "https://github.com/mulkiah/mlops-on-gcp",
+      "description": null,
+      "isFork": true,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "Shell",
+          "iconifyClass": "simple-icons:shell"
         },
         {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
         }
       ]
     },
     {
-      "id": "R_kgDOHw1ohQ",
-      "name": "pencil-to-sketch-converter",
-      "createdAt": "2022-08-03T17:26:21Z",
-      "url": "https://github.com/theriyasharma24/pencil-to-sketch-converter",
-      "description": "This project converts any colored image into a sketch using cv2 library of python.",
-      "isFork": false,
+      "id": "MDEwOlJlcG9zaXRvcnkzMDA3ODI4NzA=",
+      "name": "social-media-analytics",
+      "createdAt": "2020-10-03T02:54:38Z",
+      "url": "https://github.com/mulkiah/social-media-analytics",
+      "description": null,
+      "isFork": true,
       "languages": [
         {
           "name": "Jupyter Notebook",
@@ -85,46 +72,30 @@
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkzODU2OTExMjQ=",
-      "name": "Analogue-Clock",
-      "createdAt": "2021-07-13T17:54:17Z",
-      "url": "https://github.com/theriyasharma24/Analogue-Clock",
-      "description": "This is a simple analogue clock made using HTML, CSS and JavaScript. 🕜",
-      "isFork": false,
+      "id": "R_kgDOGNy3TA",
+      "name": "Speech-Emotion-Analyzer",
+      "createdAt": "2021-10-14T12:17:32Z",
+      "url": "https://github.com/mulkiah/Speech-Emotion-Analyzer",
+      "description": "The neural network model is capable of detecting five different male/female emotions from audio speeches. (Deep Learning, NLP, Python)",
+      "isFork": true,
       "languages": [
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
         }
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkzODYzNjI5MTU=",
-      "name": "ToDoList",
-      "createdAt": "2021-07-15T16:52:49Z",
-      "url": "https://github.com/theriyasharma24/ToDoList",
-      "description": "A simple to do list made using HTML,CSS, and JavaScript",
+      "id": "R_kgDOGNZZlQ",
+      "name": "Thesis",
+      "createdAt": "2021-10-13T10:55:04Z",
+      "url": "https://github.com/mulkiah/Thesis",
+      "description": null,
       "isFork": false,
       "languages": [
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "Python",
+          "iconifyClass": "logos-python"
         }
       ]
     }

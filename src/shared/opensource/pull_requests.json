@@ -2,253 +2,182 @@
   "closed": 0,
   "data": [
     {
-      "id": "PR_kwDOGxuVZ84-u0lx",
-      "title": "Add validation alerts on register and login",
-      "url": "https://github.com/Sabhya-Mentor-Programme/payment-solution/pull/26",
-      "state": "OPEN",
-      "mergedBy": null,
-      "createdAt": "2022-09-11T09:52:57Z",
-      "number": 26,
-      "changedFiles": 10,
-      "additions": 18,
-      "deletions": 49,
+      "id": "PR_kwDOGNr00M5VvTmz",
+      "title": "test",
+      "url": "https://github.com/mulkiah/mulkiah/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56537756?u=73f4ae3dd7731abe525805bdf61f7a7a939f489c&v=4",
+        "url": "https://github.com/mulkiah",
+        "login": "mulkiah"
+      },
+      "createdAt": "2023-07-18T04:24:28Z",
+      "number": 1,
+      "changedFiles": 0,
+      "additions": 0,
+      "deletions": 0,
       "baseRepository": {
-        "name": "payment-solution",
-        "url": "https://github.com/Sabhya-Mentor-Programme/payment-solution",
+        "name": "mulkiah",
+        "url": "https://github.com/mulkiah/mulkiah",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/97303207?v=4",
-          "login": "Sabhya-Mentor-Programme",
-          "url": "https://github.com/Sabhya-Mentor-Programme"
+          "avatarUrl": "https://avatars.githubusercontent.com/u/56537756?u=73f4ae3dd7731abe525805bdf61f7a7a939f489c&v=4",
+          "login": "mulkiah",
+          "url": "https://github.com/mulkiah"
         }
       }
     },
     {
-      "id": "PR_kwDOHtaWVM48xM1I",
-      "title": "Update",
-      "url": "https://github.com/theriyasharma24/Portfolio/pull/3",
+      "id": "PR_kwDOGejQcM47Jcti",
+      "title": "Revert \"feat: add front-end lesson\"",
+      "url": "https://github.com/mulkiah/Courses/pull/2",
       "state": "MERGED",
       "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/83356926?u=8e3f861f13b83f330d4e57818c0d103d514e5a87&v=4",
-        "url": "https://github.com/theriyasharma24",
-        "login": "theriyasharma24"
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56537756?u=73f4ae3dd7731abe525805bdf61f7a7a939f489c&v=4",
+        "url": "https://github.com/mulkiah",
+        "login": "mulkiah"
       },
-      "createdAt": "2022-08-07T11:45:36Z",
+      "createdAt": "2022-07-10T01:45:26Z",
+      "number": 2,
+      "changedFiles": 42,
+      "additions": 0,
+      "deletions": 1478,
+      "baseRepository": {
+        "name": "Courses",
+        "url": "https://github.com/mulkiah/Courses",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/56537756?u=73f4ae3dd7731abe525805bdf61f7a7a939f489c&v=4",
+          "login": "mulkiah",
+          "url": "https://github.com/mulkiah"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOGejQcM47Jcmi",
+      "title": "feat: add front-end lesson",
+      "url": "https://github.com/mulkiah/Courses/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56537756?u=73f4ae3dd7731abe525805bdf61f7a7a939f489c&v=4",
+        "url": "https://github.com/mulkiah",
+        "login": "mulkiah"
+      },
+      "createdAt": "2022-07-10T01:39:51Z",
+      "number": 1,
+      "changedFiles": 42,
+      "additions": 1478,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Courses",
+        "url": "https://github.com/mulkiah/Courses",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/56537756?u=73f4ae3dd7731abe525805bdf61f7a7a939f489c&v=4",
+          "login": "mulkiah",
+          "url": "https://github.com/mulkiah"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOGLltpc4s67hb",
+      "title": "nambahin komen",
+      "url": "https://github.com/mulkiah-tianhe/Orbit-/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/91293323?v=4",
+        "url": "https://github.com/mulkiah-tianhe",
+        "login": "mulkiah-tianhe"
+      },
+      "createdAt": "2021-10-08T01:52:48Z",
+      "number": 1,
+      "changedFiles": 1,
+      "additions": 3,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "Orbit-",
+        "url": "https://github.com/mulkiah-tianhe/Orbit-",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/91293323?v=4",
+          "login": "mulkiah-tianhe",
+          "url": "https://github.com/mulkiah-tianhe"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjY1NjE3MDQw",
+      "title": "Update closing part",
+      "url": "https://github.com/jauhari-jp/jauhari-jp.github.io/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/76899435?v=4",
+        "url": "https://github.com/jauhari-jp",
+        "login": "jauhari-jp"
+      },
+      "createdAt": "2021-06-09T06:55:20Z",
       "number": 3,
-      "changedFiles": 62,
-      "additions": 167,
-      "deletions": 168,
+      "changedFiles": 1,
+      "additions": 27,
+      "deletions": 0,
       "baseRepository": {
-        "name": "Portfolio",
-        "url": "https://github.com/theriyasharma24/Portfolio",
+        "name": "jauhari-jp.github.io",
+        "url": "https://github.com/jauhari-jp/jauhari-jp.github.io",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/83356926?u=8e3f861f13b83f330d4e57818c0d103d514e5a87&v=4",
-          "login": "theriyasharma24",
-          "url": "https://github.com/theriyasharma24"
+          "avatarUrl": "https://avatars.githubusercontent.com/u/76899435?v=4",
+          "login": "jauhari-jp",
+          "url": "https://github.com/jauhari-jp"
         }
       }
     },
     {
-      "id": "PR_kwDOHtaWVM48tGqJ",
-      "title": "Update resume link and github projects",
-      "url": "https://github.com/theriyasharma24/Portfolio/pull/2",
+      "id": "MDExOlB1bGxSZXF1ZXN0NjY1NjE1MjE3",
+      "title": "update closing part",
+      "url": "https://github.com/jauhari-jp/jauhari-jp.github.io/pull/2",
       "state": "MERGED",
       "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/83356926?u=8e3f861f13b83f330d4e57818c0d103d514e5a87&v=4",
-        "url": "https://github.com/theriyasharma24",
-        "login": "theriyasharma24"
+        "avatarUrl": "https://avatars.githubusercontent.com/u/76899435?v=4",
+        "url": "https://github.com/jauhari-jp",
+        "login": "jauhari-jp"
       },
-      "createdAt": "2022-08-05T09:23:23Z",
-      "number": 2,
-      "changedFiles": 5,
-      "additions": 200,
-      "deletions": 32,
-      "baseRepository": {
-        "name": "Portfolio",
-        "url": "https://github.com/theriyasharma24/Portfolio",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/83356926?u=8e3f861f13b83f330d4e57818c0d103d514e5a87&v=4",
-          "login": "theriyasharma24",
-          "url": "https://github.com/theriyasharma24"
-        }
-      }
-    },
-    {
-      "id": "PR_kwDOHtaWVM48mWBD",
-      "title": "Updates for Riya",
-      "url": "https://github.com/theriyasharma24/Portfolio/pull/1",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/83356926?u=8e3f861f13b83f330d4e57818c0d103d514e5a87&v=4",
-        "url": "https://github.com/theriyasharma24",
-        "login": "theriyasharma24"
-      },
-      "createdAt": "2022-08-03T18:41:44Z",
-      "number": 1,
-      "changedFiles": 24,
-      "additions": 492,
-      "deletions": 185,
-      "baseRepository": {
-        "name": "Portfolio",
-        "url": "https://github.com/theriyasharma24/Portfolio",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/83356926?u=8e3f861f13b83f330d4e57818c0d103d514e5a87&v=4",
-          "login": "theriyasharma24",
-          "url": "https://github.com/theriyasharma24"
-        }
-      }
-    },
-    {
-      "id": "PR_kwDOF9hxfM47ZRHp",
-      "title": "Removing the latex icon due to poor background.",
-      "url": "https://github.com/theriyasharma24/theriyasharma24/pull/2",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/83356926?u=8e3f861f13b83f330d4e57818c0d103d514e5a87&v=4",
-        "url": "https://github.com/theriyasharma24",
-        "login": "theriyasharma24"
-      },
-      "createdAt": "2022-07-14T10:09:49Z",
+      "createdAt": "2021-06-09T06:53:15Z",
       "number": 2,
       "changedFiles": 1,
-      "additions": 1,
-      "deletions": 1,
+      "additions": 102,
+      "deletions": 0,
       "baseRepository": {
-        "name": "theriyasharma24",
-        "url": "https://github.com/theriyasharma24/theriyasharma24",
+        "name": "jauhari-jp.github.io",
+        "url": "https://github.com/jauhari-jp/jauhari-jp.github.io",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/83356926?u=8e3f861f13b83f330d4e57818c0d103d514e5a87&v=4",
-          "login": "theriyasharma24",
-          "url": "https://github.com/theriyasharma24"
+          "avatarUrl": "https://avatars.githubusercontent.com/u/76899435?v=4",
+          "login": "jauhari-jp",
+          "url": "https://github.com/jauhari-jp"
         }
       }
     },
     {
-      "id": "PR_kwDOF9hxfM47ZQj_",
-      "title": "Update README.md",
-      "url": "https://github.com/theriyasharma24/theriyasharma24/pull/1",
+      "id": "MDExOlB1bGxSZXF1ZXN0NjY1NDc5OTIy",
+      "title": "update closing quote",
+      "url": "https://github.com/jauhari-jp/jauhari-jp.github.io/pull/1",
       "state": "MERGED",
       "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/83356926?u=8e3f861f13b83f330d4e57818c0d103d514e5a87&v=4",
-        "url": "https://github.com/theriyasharma24",
-        "login": "theriyasharma24"
+        "avatarUrl": "https://avatars.githubusercontent.com/u/76899435?v=4",
+        "url": "https://github.com/jauhari-jp",
+        "login": "jauhari-jp"
       },
-      "createdAt": "2022-07-14T10:07:31Z",
+      "createdAt": "2021-06-09T01:48:53Z",
       "number": 1,
       "changedFiles": 1,
-      "additions": 7,
-      "deletions": 1,
+      "additions": 12,
+      "deletions": 0,
       "baseRepository": {
-        "name": "theriyasharma24",
-        "url": "https://github.com/theriyasharma24/theriyasharma24",
+        "name": "jauhari-jp.github.io",
+        "url": "https://github.com/jauhari-jp/jauhari-jp.github.io",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/83356926?u=8e3f861f13b83f330d4e57818c0d103d514e5a87&v=4",
-          "login": "theriyasharma24",
-          "url": "https://github.com/theriyasharma24"
-        }
-      }
-    },
-    {
-      "id": "PR_kwDOGxuVZ846X_7L",
-      "title": "riya updated home and notification page",
-      "url": "https://github.com/Sabhya-Mentor-Programme/payment-solution/pull/22",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/83356926?u=8e3f861f13b83f330d4e57818c0d103d514e5a87&v=4",
-        "url": "https://github.com/theriyasharma24",
-        "login": "theriyasharma24"
-      },
-      "createdAt": "2022-06-26T18:49:16Z",
-      "number": 22,
-      "changedFiles": 15,
-      "additions": 379,
-      "deletions": 150,
-      "baseRepository": {
-        "name": "payment-solution",
-        "url": "https://github.com/Sabhya-Mentor-Programme/payment-solution",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/97303207?v=4",
-          "login": "Sabhya-Mentor-Programme",
-          "url": "https://github.com/Sabhya-Mentor-Programme"
-        }
-      }
-    },
-    {
-      "id": "PR_kwDOGxuVZ844M9ri",
-      "title": "riya updated clientform fronten",
-      "url": "https://github.com/Sabhya-Mentor-Programme/payment-solution/pull/16",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/35295462?u=c67434888fc780edccdbb7bcbe609a263caa70c3&v=4",
-        "url": "https://github.com/sbhaya",
-        "login": "sbhaya"
-      },
-      "createdAt": "2022-05-20T16:22:33Z",
-      "number": 16,
-      "changedFiles": 4,
-      "additions": 279,
-      "deletions": 168,
-      "baseRepository": {
-        "name": "payment-solution",
-        "url": "https://github.com/Sabhya-Mentor-Programme/payment-solution",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/97303207?v=4",
-          "login": "Sabhya-Mentor-Programme",
-          "url": "https://github.com/Sabhya-Mentor-Programme"
-        }
-      }
-    },
-    {
-      "id": "PR_kwDOGxuVZ843IVla",
-      "title": "riya client form frontend",
-      "url": "https://github.com/Sabhya-Mentor-Programme/payment-solution/pull/13",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/35295462?u=c67434888fc780edccdbb7bcbe609a263caa70c3&v=4",
-        "url": "https://github.com/sbhaya",
-        "login": "sbhaya"
-      },
-      "createdAt": "2022-05-01T13:54:43Z",
-      "number": 13,
-      "changedFiles": 16,
-      "additions": 2165,
-      "deletions": 135,
-      "baseRepository": {
-        "name": "payment-solution",
-        "url": "https://github.com/Sabhya-Mentor-Programme/payment-solution",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/97303207?v=4",
-          "login": "Sabhya-Mentor-Programme",
-          "url": "https://github.com/Sabhya-Mentor-Programme"
-        }
-      }
-    },
-    {
-      "id": "PR_kwDOGxuVZ8410MzS",
-      "title": "Riya",
-      "url": "https://github.com/Sabhya-Mentor-Programme/payment-solution/pull/12",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/35295462?u=c67434888fc780edccdbb7bcbe609a263caa70c3&v=4",
-        "url": "https://github.com/sbhaya",
-        "login": "sbhaya"
-      },
-      "createdAt": "2022-04-07T15:14:06Z",
-      "number": 12,
-      "changedFiles": 19,
-      "additions": 74612,
-      "deletions": 70623,
-      "baseRepository": {
-        "name": "payment-solution",
-        "url": "https://github.com/Sabhya-Mentor-Programme/payment-solution",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/97303207?v=4",
-          "login": "Sabhya-Mentor-Programme",
-          "url": "https://github.com/Sabhya-Mentor-Programme"
+          "avatarUrl": "https://avatars.githubusercontent.com/u/76899435?v=4",
+          "login": "jauhari-jp",
+          "url": "https://github.com/jauhari-jp"
         }
       }
     }
   ],
-  "merged": 9,
-  "open": 1,
-  "totalCount": 10
+  "merged": 7,
+  "open": 0,
+  "totalCount": 7
 }
