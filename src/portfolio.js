@@ -7,21 +7,21 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Riya Sharma",
+  title: "Mulkiah",
   description:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   og: {
-    title: "Riya Sharma Portfolio",
+    title: "Mulkiah",
     type: "website",
-    url: "https://riya-sharma-portfolio.netlify.app/#/home",
+    url: "https://mulkiah.github.io/mulkiah/",
   },
 };
 
 //Home Page
 const greeting = {
-  title: "Riya Sharma",
-  logo_name: "Riya Sharma",
-  nickname: "layman_brother",
+  title: "Mulkiah",
+  logo_name: "Mulkiah",
+  nickname: "Uki",
   subTitle:
     "A passionate tech enthusiast trying to solve real world problems through technology.",
   resumeLink:
@@ -51,7 +51,7 @@ const socialMediaLinks = [
   // },
   {
     name: "Gmail",
-    link: "mailto:theriyasharma24@gmail.com",
+    link: "mailto:mulkiahyasir@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
@@ -360,11 +360,24 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "University of Delhi",
-      subtitle: "BSc (H) Computer Science",
-      logo_path: "du.jpg",
-      alt_name: "du",
-      duration: "2020 - 2023",
+      title: "Universitas Gadjah Mada",
+      subtitle: "Master of Computer Science",
+      logo_path: "ugm.jpg",
+      alt_name: "ugm",
+      duration: "2019 - 2021",
+      descriptions: [
+        "⚡ I have studied basic software engineering subjects like DSA, DAA, DBMS, OS, SE, CN etc.",
+        "⚡ Apart from this, I have done courses in Full Stack Web Development and Machine Learning.",
+        "⚡ I have secured Second Position in the University for Part 1 examination and received scholarship for the same from Indraprastha College for Women, University of Delhi.",
+      ],
+      website_link: "https://www.du.ac.in",
+    },
+    {
+      title: "Universitas Hasanuddin",
+      subtitle: "BSc Mathematics",
+      logo_path: "unhas.png",
+      alt_name: "unhas",
+      duration: "2012 - 2016",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DSA, DAA, DBMS, OS, SE, CN etc.",
         "⚡ Apart from this, I have done courses in Full Stack Web Development and Machine Learning.",
