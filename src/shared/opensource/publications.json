@@ -1,34 +1,39 @@
 {
   "data": [
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "Artificial Intelligence Paper",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "description": "Paper Written on Artificial Intelligence published in xyz "
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzi=",
-      "name": "Artificial Intelligence Paper",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "description": "Paper Written on Artificial Intelligence published in xyz "
-    },
-    {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
-      "name": "Artificial Intelligence Paper",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "description": "Paper Written on Artificial Intelligence published in xyz "
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzt=",
-      "name": "Artificial Intelligence Paper",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "description": "Paper Written on Artificial Intelligence published in xyz "
+      "name": "Compression-Encryption Model for Digital Images Based on GAN and Logistic Map",
+      "createdAt": "July 2021",
+      "url": "https://ieeexplore.ieee.org/document/9502225",
+      "description": "The problem of digital image transmission lies on the size of the image which tends to get bigger, and how to satisfy the confidentiality aspects when images are transmitted via unsecured channels. To solve this problem, a cryptosystem model is proposed, using a combination of compression and cryptography methods. This research proposes the development and performance measurement of compression-encryption models, Which consists of Generative Adversarial Network and logistic map encryption. The test results also showed that this scheme is better than other color image compression-encryption algorithms, With the SSIM values above 0.97 and compression ratio above 94%."
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=",
-      "name": "Artificial Intelligence Paper",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "description": "Paper Written on Artificial Intelligence published in xyz "
+      "name": "Books Chapter - Pembangunan Inklusif: Kolaborasi Multidisiplin Ilmu untuk menyongsong Indonesia Emas 2045",
+      "createdAt": "Maret 2021",
+      "url": "https://drive.google.com/file/d/1aj7YpKW5ylqouWfYfqJgXp1IEEwpEoz3/view?usp=sharing",
+      "description": ""
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=",
+      "name": "Books Chapter - Peran Saintek Terhadap Sustainable Development Goals (SDGs)",
+      "createdAt": "Desember 2020",
+      "url": "https://drive.google.com/file/d/1I4gXLarOgncKWJniFayP7YhoTB3e_tv8/view?usp=sharing",
+      "description": ""
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzt=",
+      "name": "Some useful properties of trinion fourier transform",
+      "createdAt": "August 2017",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SjuPCkoAAAAJ&sortby=pubdate&citation_for_view=SjuPCkoAAAAJ:d1gkVwhDpl0C",
+      "description": "The trinion Fourier transform is a useful mathematical transformation, which is considered as a generalization of the clasical Fourier transform in the framework of trinion numbers. In this paper, we derive in detail some fundamental properties of the trinion Fourier transform such as Parseval's formula, general convolution and correlation theorems."
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=",
+      "name": "Real matrix representation for trinion numbers and its properties",
+      "createdAt": "January 2016",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SjuPCkoAAAAJ&sortby=pubdate&citation_for_view=SjuPCkoAAAAJ:u-x6o8ySG0sC",
+      "description": "In this paper, we show that the trinion numbers can be explicitly represented using real matrices. Some important properties of real matrix representations for the trinion are investigated in detail."
     }
   ]
 }

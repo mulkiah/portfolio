@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "Mulkiah",
   nickname: "Uki",
   subTitle:
-    "A passionate tech enthusiast trying to solve real world problems through technology.",
+    "A passionate tech enthusiast and researcher trying to solve real world problems through technology.",
   resumeLink:
     "https://drive.google.com/file/d/1sV0uTWZNlJV2EuQ-sT8xA-fQ5xex7P9t/view?usp=sharing",
   portfolio_repository: "https://github.com/mulkiah/Projects",
@@ -81,7 +81,7 @@ const skills = {
       title: "Data Science & AI",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
+        "⚡ Developing highly scalable production ready models for various deep learning and statistical use cases",
         "⚡ Experience of working with Computer Vision and Data Science Projects",
         "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
       ],
@@ -202,12 +202,14 @@ const skills = {
     //   ],
     // },
     {
-      title: "Cloud Infra-Architecture",
+      title: "Cloud",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Experience working on multiple cloud platforms",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud and visualize the results",
+        "⚡ Experience working on multiple cloud platforms (Azure and AWS)",
+        // "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
+        "⚡ Deploying deep learning models on clouds",
+        "⚡ Designing, implementing, and optimizing (cost and performance) cloud architecture",
+
         //"⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
       ],
       softwareSkills: [
@@ -370,7 +372,8 @@ const degrees = {
         "⚡ Apart from this, I worked as a practical assistant for basic programming and software engineering.",
         "⚡ My master's degree is fully funded by The Indonesia Endowment Fund for Education (LPDP).",
       ],
-      website_link: "https://www.du.ac.in",
+      website_link:
+        "https://dcse.fmipa.ugm.ac.id/site/en/computer-science-master-program/",
     },
     {
       title: "Universitas Hasanuddin",
@@ -383,7 +386,7 @@ const degrees = {
         "⚡ Apart from this, I worked as a lecture assistant for a basic calculus course.",
         "⚡ I was awarded the PPA Scholarship, a financial scholarship from the Ministry of Research and Higher Education Indonesia given to the top students of the university.",
       ],
-      website_link: "https://www.du.ac.in",
+      website_link: "https://math.sci.unhas.ac.id/",
     },
   ],
 };
@@ -413,7 +416,7 @@ const certifications = {
       subtitle: "- AWS",
       logo_path: "aws-logo.png",
       certificate_link:
-        "https://www.udemy.com/certificate/UC-3850d72a-5cc2-446b-a562-3db654b75f48/",
+        "https://www.credly.com/badges/01aab008-eeba-4390-a398-3ca402f66ea5/linked_in_profile",
       alt_name: "aws saa",
       color_code: "#F5DD1B",
     },
@@ -436,43 +439,42 @@ const certifications = {
       alt_name: "microsoftai",
       color_code: "#FFFFFF",
     },
-
-    // {
-    //   title: "Data Science",
-    //   subtitle: "- Alex Aklson",
-    //   logo_path: "ibm_logo.png",
-    //   certificate_link:
-    //     "https://www.coursera.org/account/accomplishments/specialization/PLEAPCSJBZT5",
-    //   alt_name: "IBM",
-    //   color_code: "#1F70C199",
-    // },
-    // {
-    //   title: "Big Data",
-    //   subtitle: "- Kim Akers",
-    //   logo_path: "microsoft_logo.png",
-    //   certificate_link:
-    //     "https://drive.google.com/file/d/164zKCFOsI4vGqokc-Qj-e_D00kLDHIrG/view",
-    //   alt_name: "Microsoft",
-    //   color_code: "#D83B0199",
-    // },
-    // {
-    //   title: "Advanced Data Science",
-    //   subtitle: "- Romeo Kienzler",
-    //   logo_path: "ibm_logo.png",
-    //   certificate_link:
-    //     "https://www.coursera.org/account/accomplishments/verify/BH2T9BRU87BH",
-    //   alt_name: "IBM",
-    //   color_code: "#1F70C199",
-    // },
-    // {
-    //   title: "Advanced ML on GCP",
-    //   subtitle: "- GCP Training",
-    //   logo_path: "google_logo.png",
-    //   certificate_link:
-    //     "https://www.coursera.org/account/accomplishments/verify/5JZZM7TNQ2AV",
-    //   alt_name: "Google",
-    //   color_code: "#0C9D5899",
-    // },
+    {
+      title: "German A1",
+      subtitle: "- Goethe-Institut Indonesien",
+      logo_path: "goethe.jpeg",
+      certificate_link:
+        "https://drive.google.com/file/d/1UPkb-vG0kdn6O3oJtuoK8YfjukYmHu4N/view?usp=sharing",
+      alt_name: "goethe",
+      color_code: "#1F70C199",
+    },
+    {
+      title: "PCAP - Certified Associate in Python Programming",
+      subtitle: "- Python Developer",
+      logo_path: "python.jpeg",
+      certificate_link:
+        "https://www.credly.com/badges/638b3265-c5e7-405c-8d52-21e295a79569?source=linked_in_profile",
+      alt_name: "Python",
+      color_code: "#D83B0199",
+    },
+    {
+      title: "AWS Certified Cloud Practitioner",
+      subtitle: "- AWS",
+      logo_path: "aws-logo.png",
+      certificate_link:
+        "https://www.credly.com/badges/628ca32d-6b9a-4dbb-a46a-849479dcec4a?source=linked_in_profile",
+      alt_name: "aws",
+      color_code: "#1F70C199",
+    },
+    {
+      title: "Microsoft Certified Educator",
+      subtitle: "- Microsoft",
+      logo_path: "microsoft_logo.png",
+      certificate_link:
+        "https://www.credly.com/badges/10a20b0d-68ab-4fe6-99fc-b02f44c032d3?source=linked_in_profile",
+      alt_name: "Microsoft",
+      color_code: "#0C9D5899",
+    },
     // {
     //   title: "DL on Tensorflow",
     //   subtitle: "- Laurence Moroney",
@@ -540,7 +542,7 @@ const experience = {
           duration: "Jan 2022 - Mar 2023",
           location: "Remote",
           description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
+            "I was working on automating automotive products, which involved implementing automation for process improvements and optimizing pre-sales and post-sales to enhance profits.",
           color: "#0879bf",
         },
         {
@@ -551,7 +553,7 @@ const experience = {
           duration: "Jul 2021 - Jan 2022",
           location: "Jakarta, Indonesia",
           description:
-            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
+            "I have taught  Students to identify local/social/global problems and support them to come up with solution using AI.",
           color: "#9b1578",
         },
         // {
@@ -607,7 +609,7 @@ const experience = {
           duration: "2019",
           location: "Yogyakarta, Indonesia",
           description:
-            "ebras is an international initiative aiming to promote Informatics (Computer Science, or Computing) and computational thinking among school students at all ages.  ",
+            "Bebras is an international initiative aiming to promote Informatics (Computer Science, or Computing) and computational thinking among school students at all ages.  ",
           color: "#000000",
         },
         // {
@@ -676,6 +678,8 @@ const publicationsHeader = {
   avatar_image_path: "projects_image.svg",
 };
 
+const publications = {};
+
 // Contact Page
 const contactPageData = {
   contactSection: {
@@ -714,6 +718,7 @@ export {
   certifications,
   experience,
   projectsHeader,
+  publications,
   publicationsHeader,
   contactPageData,
 };
