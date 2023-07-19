@@ -370,7 +370,7 @@ const degrees = {
       descriptions: [
         "⚡ I have studied machine learning and basic artificial intelligence. My master's thesis is about the use of generative models.",
         "⚡ Apart from this, I worked as a practical assistant for basic programming and software engineering.",
-        "⚡ My master's degree is fully funded by The Indonesia Endowment Fund for Education (LPDP).",
+        "⚡ My master's degree was fully funded by The Indonesia Endowment Fund for Education (LPDP).",
       ],
       website_link:
         "https://dcse.fmipa.ugm.ac.id/site/en/computer-science-master-program/",
@@ -383,7 +383,7 @@ const degrees = {
       duration: "2012 - 2016",
       descriptions: [
         "⚡ I have studied mathematics and its applications. My bachelor's thesis is about hypercomplex numbers.",
-        "⚡ Apart from this, I worked as a lecture assistant for a basic calculus course.",
+        "⚡ Apart from this, I worked as a lecture assistant for basic calculus courses.",
         "⚡ I was awarded the PPA Scholarship, a financial scholarship from the Ministry of Research and Higher Education Indonesia given to the top students of the university.",
       ],
       website_link: "https://math.sci.unhas.ac.id/",
@@ -553,7 +553,7 @@ const experience = {
           duration: "Jul 2021 - Jan 2022",
           location: "Jakarta, Indonesia",
           description:
-            "I have taught  Students to identify local/social/global problems and support them to come up with solution using AI.",
+            "I taught  Students to identify local/social/global problems and supported them to come up with solution using AI.",
           color: "#9b1578",
         },
         // {
